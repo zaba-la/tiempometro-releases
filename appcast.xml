@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tiempometro</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 19 Nov 2026 15:41:24 +0100</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<li>Widget flotante y diminuto con tu hora y la de otras zonas, ordenadas de oeste a este alrededor de tu ubicación.</li>
+<li>Pasa el ratón o haz clic en una zona para ver, hora a hora, a qué hora equivale en la tuya; fija la que te interese.</li>
+<li>Elige una hora en cualquier zona con un par de clics y mira a qué hora es en el resto.</li>
+<li>Se pega como un imán a los bordes de la pantalla.</li>
+<li>Tema claro, oscuro o automático; en español e inglés.</li>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/zaba-la/tiempometro-releases/main/Tiempometro-1.0.0.dmg" length="2567938" type="application/octet-stream" sparkle:edSignature="0BZhqvXOKPgQyuyV2sEzpNLIcIUcRj/XxnYJ68U1TMrJY3YcQO0AxgFT7jWzk+97spk4bT5nZnFbgjBg4NVUDA=="/>
+        </item>
+    </channel>
+</rss>
